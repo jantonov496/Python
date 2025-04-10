@@ -1,4 +1,4 @@
-#NOTE: I lost access to my e-mail address from my old GitHub account, and no longer have access to it.  I have copied and pasted this implemention of the hidden line
+#NOTE: I lost access to my e-mail address linked to my old GitHub account, and no longer have access to it.  I have copied and pasted this implemention of the hidden line
 #removal algorithm in Python into this repository of my new GitHub account.
 
 #Line Clipper Version 1.0 October 15, 2016
